@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uC0AC\uC6A9\uC790\\Desktop\\Coding\\C#\\Lion7_Unity\\ConsoleApp3\\",
+  "WorkspaceRootPath": "C:\\Users\\\uC0AC\uC6A9\uC790\\Documents\\GitHub\\Lion7\\ConsoleApp3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A2087B4-2B51-478B-A569-0AFCC95E8798}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\\uC0AC\uC6A9\uC790\\desktop\\coding\\c#\\lion7_unity\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A2087B4-2B51-478B-A569-0AFCC95E8798}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\\uC0AC\uC6A9\uC790\\documents\\github\\lion7\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A2087B4-2B51-478B-A569-0AFCC95E8798}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\uC0AC\uC6A9\uC790\\Desktop\\Coding\\C#\\Lion7_Unity\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC6A9\uC790\\Documents\\GitHub\\Lion7\\ConsoleApp3\\ConsoleApp3\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
-              "ToolTip": "C:\\Users\\\uC0AC\uC6A9\uC790\\Desktop\\Coding\\C#\\Lion7_Unity\\ConsoleApp3\\ConsoleApp3\\Program.cs",
-              "RelativeToolTip": "ConsoleApp3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\uC0AC\uC6A9\uC790\\Documents\\GitHub\\Lion7\\ConsoleApp3\\ConsoleApp3\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T00:14:28.942Z",
               "EditorCaption": ""
