@@ -1,0 +1,8 @@
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.AssemblyReference.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe.config
