@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC0AC\uC6A9\uC790\\Documents\\GitHub\\Lion7\\ConsoleApp23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55B579CF-661A-4368-8AF7-D9E98076A490}|ConsoleApp23\\ConsoleApp23.csproj|c:\\users\\\uC0AC\uC6A9\uC790\\documents\\github\\lion7\\consoleapp23\\consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B579CF-661A-4368-8AF7-D9E98076A490}|ConsoleApp23\\ConsoleApp23.csproj|solutionrelative:consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC6A9\uC790\\Documents\\GitHub\\Lion7\\ConsoleApp23\\ConsoleApp23\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp23\\Program.cs",
+              "ToolTip": "C:\\Users\\\uC0AC\uC6A9\uC790\\Documents\\GitHub\\Lion7\\ConsoleApp23\\ConsoleApp23\\Program.cs",
+              "RelativeToolTip": "ConsoleApp23\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T02:24:41.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

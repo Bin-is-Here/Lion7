@@ -1,0 +1,8 @@
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.AssemblyReference.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe.config
