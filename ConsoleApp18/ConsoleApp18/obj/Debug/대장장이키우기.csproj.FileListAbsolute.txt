@@ -1,0 +1,8 @@
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp18\ConsoleApp18\obj\Debug\대장장이키우기.csproj.AssemblyReference.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp18\ConsoleApp18\obj\Debug\대장장이키우기.csproj.CoreCompileInputs.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe.config
