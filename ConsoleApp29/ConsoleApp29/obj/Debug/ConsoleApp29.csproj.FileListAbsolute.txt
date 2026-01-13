@@ -1,0 +1,8 @@
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp29\ConsoleApp29\bin\Debug\ConsoleApp29.exe.config
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp29\ConsoleApp29\bin\Debug\ConsoleApp29.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp29\ConsoleApp29\bin\Debug\ConsoleApp29.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp29\ConsoleApp29\obj\Debug\ConsoleApp29.csproj.AssemblyReference.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp29\ConsoleApp29\obj\Debug\ConsoleApp29.csproj.CoreCompileInputs.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp29\ConsoleApp29\obj\Debug\ConsoleApp29.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp29\ConsoleApp29\obj\Debug\ConsoleApp29.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp29\ConsoleApp29\obj\Debug\ConsoleApp29.exe.config

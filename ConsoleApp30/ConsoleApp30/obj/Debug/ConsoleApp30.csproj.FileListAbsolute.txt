@@ -1,0 +1,8 @@
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe.config
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.AssemblyReference.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CoreCompileInputs.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.exe.config

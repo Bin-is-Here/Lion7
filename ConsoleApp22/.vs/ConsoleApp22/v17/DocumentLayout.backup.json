@@ -5,6 +5,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{0998BC6B-C1BA-4BDA-AE39-DF9032C60102}|ConsoleApp22\\ConsoleApp22.csproj|c:\\users\\\uC0AC\uC6A9\uC790\\documents\\github\\lion7\\consoleapp22\\consoleapp22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0998BC6B-C1BA-4BDA-AE39-DF9032C60102}|ConsoleApp22\\ConsoleApp22.csproj|solutionrelative:consoleapp22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F2AAD-67AF-408B-BD11-FC5E08AD0BEF}|..\\ConsoleApp24\\ConsoleApp24\\ConsoleApp24.csproj|c:\\users\\\uC0AC\uC6A9\uC790\\documents\\github\\lion7\\consoleapp24\\consoleapp24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B579CF-661A-4368-8AF7-D9E98076A490}|..\\ConsoleApp23\\ConsoleApp23\\ConsoleApp23.csproj|c:\\users\\\uC0AC\uC6A9\uC790\\documents\\github\\lion7\\consoleapp23\\consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +20,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC6A9\uC790\\Documents\\GitHub\\Lion7\\ConsoleApp24\\ConsoleApp24\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp24\\ConsoleApp24\\Program.cs",
+              "ToolTip": "C:\\Users\\\uC0AC\uC6A9\uC790\\Documents\\GitHub\\Lion7\\ConsoleApp24\\ConsoleApp24\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp24\\ConsoleApp24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:56:15.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uC0AC\uC6A9\uC790\\Documents\\GitHub\\Lion7\\ConsoleApp23\\ConsoleApp23\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp23\\ConsoleApp23\\Program.cs",
+              "ToolTip": "C:\\Users\\\uC0AC\uC6A9\uC790\\Documents\\GitHub\\Lion7\\ConsoleApp23\\ConsoleApp23\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp23\\ConsoleApp23\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:55:45.957Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +56,7 @@
               "RelativeDocumentMoniker": "ConsoleApp22\\Program.cs",
               "ToolTip": "C:\\Users\\\uC0AC\uC6A9\uC790\\Documents\\GitHub\\Lion7\\ConsoleApp22\\ConsoleApp22\\Program.cs",
               "RelativeToolTip": "ConsoleApp22\\Program.cs",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAUwOsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T00:19:03.213Z",
               "EditorCaption": ""

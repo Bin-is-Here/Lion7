@@ -1,0 +1,8 @@
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.exe.config
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.csproj.AssemblyReference.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.exe.config
