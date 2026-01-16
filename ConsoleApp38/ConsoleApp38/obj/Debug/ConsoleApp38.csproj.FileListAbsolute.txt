@@ -1,0 +1,8 @@
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.csproj.AssemblyReference.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.csproj.CoreCompileInputs.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.exe.config

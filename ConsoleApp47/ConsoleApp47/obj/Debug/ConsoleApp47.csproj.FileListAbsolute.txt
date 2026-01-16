@@ -1,0 +1,8 @@
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp47\ConsoleApp47\bin\Debug\ConsoleApp47.exe.config
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp47\ConsoleApp47\bin\Debug\ConsoleApp47.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp47\ConsoleApp47\bin\Debug\ConsoleApp47.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp47\ConsoleApp47\obj\Debug\ConsoleApp47.csproj.AssemblyReference.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp47\ConsoleApp47\obj\Debug\ConsoleApp47.csproj.CoreCompileInputs.cache
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp47\ConsoleApp47\obj\Debug\ConsoleApp47.exe
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp47\ConsoleApp47\obj\Debug\ConsoleApp47.pdb
+C:\Users\사용자\Documents\GitHub\Lion7\ConsoleApp47\ConsoleApp47\obj\Debug\ConsoleApp47.exe.config
